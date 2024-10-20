@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ccc54a115776e539807d5802928ae8c, type: 3}
+  m_Name: Colour
+  m_EditorClassIdentifier: 
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0, g: 0.02352953, b: 1, a: 1}
+    key1: {r: 1, g: 0.9633745, b: 0.4669811, a: 1}
+    key2: {r: 0.37647063, g: 0.5529412, b: 0.2784314, a: 0}
+    key3: {r: 0.21366589, g: 0.4575472, b: 0.23279384, a: 0}
+    key4: {r: 0.21798238, g: 0.4764151, b: 0.2384929, a: 0}
+    key5: {r: 0.17942329, g: 0.4528302, b: 0.20112222, a: 0}
+    key6: {r: 0.35619506, g: 0.5660378, b: 0.21092917, a: 0}
+    key7: {r: 0.42038983, g: 0.6650944, b: 0.44315305, a: 0}
+    ctime0: 1542
+    ctime1: 3277
+    ctime2: 5590
+    ctime3: 27467
+    ctime4: 33442
+    ctime5: 40574
+    ctime6: 50115
+    ctime7: 65535
+    atime0: 0
+    atime1: 8867
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 2
+    m_ColorSpace: 0
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 2
+  planetMaterial: {fileID: -876546973899608171, guid: 7ac05250be7397e60860a2e9c91a01ee, type: 3}
